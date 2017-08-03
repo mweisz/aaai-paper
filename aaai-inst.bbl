@@ -1,3 +1,64 @@
 \begin{thebibliography}{}
-\item[Test] Test
+
+\bibitem[Abadie and Imbens, 2016]{Abadie2016}
+Abadie, A. and Imbens, G.~W. (2016).
+\newblock Matching on the estimated propensity score.
+\newblock {\em Econometrica}, 84(2):781--807.
+
+\bibitem[{Alaa} et~al., 2017]{propensity-dropout}
+{Alaa}, A.~M., {Weisz}, M., and {van der Schaar}, M. (2017).
+\newblock {Deep Counterfactual Networks with Propensity-Dropout}.
+\newblock {\em ArXiv e-prints}.
+
+\bibitem[Austin, 2011]{austin11}
+Austin, P.~C. (2011).
+\newblock An introduction to propensity score methods for reducing the effects
+  of confounding in observational studies.
+\newblock {\em Multivariate Behavioral Research}, 46(3):399--424.
+\newblock PMID: 21818162.
+
+\bibitem[Hill, 2011]{hill}
+Hill, J.~L. (2011).
+\newblock Bayesian nonparametric modeling for causal inference.
+\newblock {\em Journal of Computational and Graphical Statistics},
+  20(1):217--240.
+
+\bibitem[Johansson et~al., 2016]{sontag1}
+Johansson, F., Shalit, U., and Sontag, D. (2016).
+\newblock {\em Learning representations for counterfactual inference},
+  volume~6, pages 4407--4418.
+\newblock International Machine Learning Society (IMLS).
+
+\bibitem[Rosenbaum and Rubin, 1983]{rosenbaum83}
+Rosenbaum, P.~R. and Rubin, D.~B. (1983).
+\newblock The central role of the propensity score in observational studies for
+  causal effects.
+\newblock {\em Biometrika}, 70(1):41--55.
+
+\bibitem[Rubin, 1973]{rubin73}
+Rubin, D.~B. (1973).
+\newblock Matching to remove bias in observational studies.
+\newblock {\em Biometrics}, 29(1):159--183.
+
+\bibitem[Rubin, 2005]{rubin2011}
+Rubin, D.~B. (2005).
+\newblock Causal inference using potential outcomes.
+\newblock {\em Journal of the American Statistical Association},
+  100(469):322--331.
+
+\bibitem[Shalit et~al., 2017]{sontag2}
+Shalit, U., Johansson, F.~D., and Sontag, D. (2017).
+\newblock Estimating individual treatment effect: generalization bounds and
+  algorithms.
+\newblock In Precup, D. and Teh, Y.~W., editors, {\em Proceedings of the 34th
+  International Conference on Machine Learning}, volume~70 of {\em Proceedings
+  of Machine Learning Research}, pages 3076--3085, International Convention
+  Centre, Sydney, Australia. PMLR.
+
+\bibitem[{Wager} and {Athey}, 2015]{wager}
+{Wager}, S. and {Athey}, S. (2015).
+\newblock {Estimation and Inference of Heterogeneous Treatment Effects using
+  Random Forests}.
+\newblock {\em ArXiv e-prints}.
+
 \end{thebibliography}
