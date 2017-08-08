@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.29)  8 AUG 2017 04:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.29)  8 AUG 2017 05:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -463,51 +463,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 192--193
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 212--222
-[]\OT1/ptm/m/n/10 where $\OML/cmm/m/it/10 g$ \OT1/ptm/m/n/10 rep-re-sents a com
--mon func-tion and $\OML/cmm/m/it/10 h[]; h[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 212--222
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
 
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 261--265
+Underfull \hbox (badness 1158) in paragraph at lines 265--269
 \OT1/ptm/m/n/10 Firstly, we use a syn-thetic model which al-lows us to
  []
 
 
-Underfull \hbox (badness 2435) in paragraph at lines 261--265
+Underfull \hbox (badness 2435) in paragraph at lines 265--269
 \OT1/ptm/m/n/10 parametrise and fully con-trol the char-ac-ter-is-tics men-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--265
+Underfull \hbox (badness 10000) in paragraph at lines 265--269
 
  []
 
 [3]
-Underfull \hbox (badness 1286) in paragraph at lines 313--316
+Underfull \hbox (badness 1286) in paragraph at lines 317--320
 \OT1/ptm/m/n/10 with a stan-dard de-vi-a-tion $\OML/cmm/m/it/10 ^^[$\OT1/ptm/m/
 n/10 . This way, we can use
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 313--316
+Underfull \hbox (badness 1571) in paragraph at lines 317--320
 \OT1/ptm/m/n/10 the pa-ram-e-ter $\OML/cmm/m/it/10 ^^[ \OMS/cmsy/m/n/10 2 \U/ms
 b/m/n/10 R[]$ \OT1/ptm/m/n/10 to con-trol the sim-i-lar-ity be-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--316
+Underfull \hbox (badness 10000) in paragraph at lines 317--320
 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 337.
+               Default added (so using `tbp') on input line 341.
 
 [4] (./aaai-inst.bbl
 Underfull \hbox (badness 1132) in paragraph at lines 14--19
@@ -526,23 +520,24 @@ Here is how much of TeX's memory you used:
  38i,21n,24p,1086b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/ba
 se/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-bx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cme
-x10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5
-.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.p
-fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/201
-5/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on aaai-inst.pdf (5 pages, 319957 bytes).
+bx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
+x7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.p
+fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/
+texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on aaai-inst.pdf (5 pages, 327202 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 85 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
